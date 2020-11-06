@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# FontFix
+Fixes font rendering
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This is a port of [MUI's truetype font renderer](https://github.com/BloCamLimb/ModernUI)
